@@ -7,7 +7,7 @@
 </picture>
 
 ## Steve Frost
-🔭 I’m currently working on the Cloud Web Development Bootcamp though <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
+🔭 I’m currently working on the Cloud Web Development Bootcamp through <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
 <br>🌱 I’m currently learning HTML, CSS, JavaScript, Node.JS, Express.JS, React and MongoDB
 <br>✨ I'm also brushing up on Python
 <br>🕰️ I've worked in IT for over 25 years
