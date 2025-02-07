@@ -1,5 +1,4 @@
 # <Hello World! />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/froststeve/froststeve/blob/main/Screenshot%202024-10-22%20161815.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/froststeve/froststeve/blob/main/Screenshot%202024-10-22%20161815.png">
@@ -25,13 +24,29 @@ Currently on a journey to freelance web development, helping businesses unlock t
 - Databases: MariaDB, MySQL, MongoDB, Oracle
 - Tools: Git, Scrapy, Oracle Forms
 
-### 💬 Ask me anything!
+### 🎯 Did You Know?  
+- I once ran IT development for a major UK supermarket.  
+- I named my cat Mr. Potato (he approves of my code).  
+
+### 💼 Let’s Build Something!  
+Looking for a freelance developer who can deliver tailored web solutions?  
+[Contact Me](https://www.linkedin.com/in/stevefrostuk/)
 
 ### 📫 Find me on LinkedIn
 <a href = "https://www.linkedin.com/in/stevefrostuk/">
 <img height="40px" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
 <br><br>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=froststeve&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut&theme=transparent" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=froststeve&show_icons=true&theme=transparent&hide=stars,prs,issues,contribs&hide_rank=true" />
+</a>
+
+<br><br>
+
 
 > [!NOTE]
 > Much of the code appearing here is specifically for use with the ✨Cloud Web Development Bootcamp✨
