@@ -6,16 +6,11 @@
   <img height = "500px" alt="ASCII image of Steve Frost" src="https://github.com/froststeve/froststeve/blob/main/Screenshot%202024-10-22%20161815.png">
 </picture>
 
-<pre>
-  
-</pre>
-
 ## Steve Frost
-🔭 I’m currently working on the Cloud Web Development Bootcamp through <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
-<br>🌱 I’m currently learning HTML, CSS, JavaScript, Node.JS, Express.JS, React and MongoDB
-<br>✨ I'm also brushing up on Python
 <br>🕰️ I've worked in IT for over 25 years
-<br>⚡ Languages: COBOL; Oracle SQL & PL/SQL; Oracle Forms; Linux; Shell Scripting
+<br>🔭 I’m currently working on the Cloud Web Development Bootcamp through <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
+<br>✨ I'm also brushing up on Python
+<br>⚡ Languages: HTML; CSS; JavaScript; React; Node; MongoDB; Python; COBOL; Oracle SQL & PL/SQL; Oracle Forms; MySQL; Linux; Shell Scripting
 
 ### Find me on LinkedIn
 <a href = "https://www.linkedin.com/in/stevefrostuk/">
