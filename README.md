@@ -9,7 +9,7 @@
 Experienced IT developer with a passion for bespoke systems and clean, functional web solutions.  
 Currently on a journey to freelance web development, helping businesses unlock their digital potential.
 
-### ⌚ I've worked in IT for over 25 years
+### ⌚ I've worked in IT for over 25 years - including at Sainsbury's, Accenture, Kantar and Bank of America
 
 ### ⚙️ I'm working on...
 - Completing the Cloud Web Development Bootcamp through <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
