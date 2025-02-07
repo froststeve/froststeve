@@ -6,32 +6,32 @@
   <img height = "500px" alt="ASCII image of Steve Frost" src="https://github.com/froststeve/froststeve/blob/main/Screenshot%202024-10-22%20161815.png">
 </picture>
 
-## Steve Frost
-<br>🕰️ I've worked in IT for over 25 years
-<br>🔭 I’m currently working on the Cloud Web Development Bootcamp through <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
-<br>✨ I'm also brushing up on Python
-<br>⚡ Languages: HTML; CSS; JavaScript; React; Node; MongoDB; Python; COBOL; Oracle SQL & PL/SQL; Oracle Forms; MySQL; Linux; Shell Scripting
+# Hi there, I'm Steve 👋  
+Experienced IT developer with a passion for bespoke systems and clean, functional web solutions.  
+Currently on a journey to freelance web development, helping businesses unlock their digital potential.
 
-### Find me on LinkedIn
+### ⌚ I've worked in IT for over 25 years
+
+### ⚙️ I'm working on...
+- Completing the Cloud Web Development Bootcamp through <a target="_blank" href="https://www.hyperiondev.com/">HyperionDev</a>
+- Building web applications
+- Web scraping and data extraction with Python
+- Designing clean and minimal website UIs
+- Brushing up on Python
+
+### 🛠 Tech Stack  
+- Languages: Python, JavaScript, Node, COBOL, Shell Scripting
+- Web: HTML5, CSS3, React  
+- Databases: MariaDB, MySQL, MongoDB, Oracle
+- Tools: Git, Scrapy, Oracle Forms
+
+### 💬 Ask me anything!
+
+### 📫 Find me on LinkedIn
 <a href = "https://www.linkedin.com/in/stevefrostuk/">
 <img height="40px" alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png">
 </a>
+<br><br>
 
-<br><br><br><br>
 > [!NOTE]
-> Much of the code appearing here is specifically for use with the Cloud Web Development Bootcamp
-<!--
-**froststeve/froststeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-![LinkedinGIF (2)](https://github.com/user-attachments/assets/71bd8584-bc0b-439c-9413-f8c05cd7cca6)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> Much of the code appearing here is specifically for use with the ✨Cloud Web Development Bootcamp✨
