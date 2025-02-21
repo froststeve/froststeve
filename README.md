@@ -41,9 +41,9 @@ Looking for a freelance developer who can deliver tailored web solutions?
 <a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=froststeve&size_weight=0.5&count_weight=0.5&langs_count=8&layout=donut&theme=transparent" />
 </a>
-<a href="#">
+<!-- <a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=froststeve&show_icons=true&theme=transparent&hide=stars,prs,issues,contribs&hide_rank=true" />
-</a>
+</a> -->
 
 <br><br>
 
